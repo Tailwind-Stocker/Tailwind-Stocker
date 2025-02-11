@@ -55,7 +55,6 @@ I am a dedicated and passionate developer with a keen interest in [your areas of
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowProtocol1&layout=compact&theme=radical)
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowProtocol1&langs_count=8&theme=radical)
 
 ## Fun Elements
 ![Meme](https://i.imgflip.com/1b42wl.jpg)
