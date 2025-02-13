@@ -1199,29 +1199,29 @@ I am a dedicated and passionate developer with a keen interest in [your areas of
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tailwind-Stocker&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tailwind-Stocker&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ## ⚡ GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tailwind-Stocker&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
 ## 🌀 Contribution Snake  
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Tailwind-Stocker/Tailwind-Stocker/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🎶 Vibe While You Code  
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=Tailwind-Stocker&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 </p>
 
 ---
@@ -1338,7 +1338,6 @@ OR
 💬 **Let’s connect and build something awesome!** 🚀✨
 
 -->
-
 
 
 <!--START_SECTION:activity-->
