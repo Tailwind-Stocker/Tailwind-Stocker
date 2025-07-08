@@ -1190,7 +1190,7 @@ I am a dedicated and passionate developer with a keen interest in [your areas of
 
 ---
 
-## 🎨 Tech Stack (With Flashy Icons)  
+## 🎨 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,nodejs,nextjs,python,git,github,linux,figma,arduino,raspberrypi" />
 </p>
@@ -1218,13 +1218,13 @@ I am a dedicated and passionate developer with a keen interest in [your areas of
 </p>
 
 ---
-
+<!--
 ## 🎶 Vibe While You Code  
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=Tailwind-Stocker&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 </p>
-
 ---
+-->
 
 ## 🌍 Let's Connect!  
 <p align="center">
