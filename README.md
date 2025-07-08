@@ -1166,7 +1166,7 @@ I am a dedicated and passionate developer with a keen interest in [your areas of
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=🚀+Welcome+to+My+GitHub!;🎨+Flashy+Profile+Activated!;💡+Full-Stack+Developer;🔥+Tech+Enthusiast;✨+Let's+Build+Something+Great!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=🚀+Welcome+to+My+GitHub!;💡+Full-Stack+Developer;🔥+Tech+Enthusiast;✨+Let's+Build+Something+Great!" />
 </h1>
 
 <!-- Neon Glowing Divider -->
@@ -1185,21 +1185,21 @@ I am a dedicated and passionate developer with a keen interest in [your areas of
 🧑‍💻 **Full-Stack Developer** | 🎨 **UI/UX Enthusiast** | 💡 **Innovator**  
 📚 **Always Learning**: Web Dev, AI, Blockchain, Cybersecurity  
 🔥 **Currently Working On**: Cutting-edge projects & open-source contributions  
-🌍 **Tech Stack**: JavaScript, Python, React, Node.js, and more!  
+🌍 **Tech Stack**: C++, Java, JavaScript, Python, React, Node.js, Express.js<br>
 💬 **Ask Me About**: Anything tech-related!  
 
 ---
 
 ## 🎨 Tech Stack (With Flashy Icons)  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,cpp,git,github,docker,linux,figma,graphql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,nodejs,nextjs,python,git,github,linux,figma,arduino,raspberrypi" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tailwind-Stocker&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tailwind-Stocker&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tailwind-Stocker&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
@@ -1228,8 +1228,8 @@ I am a dedicated and passionate developer with a keen interest in [your areas of
 
 ## 🌍 Let's Connect!  
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<!--   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+<!--   <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
