@@ -1214,9 +1214,9 @@ I am a dedicated and passionate developer with a keen interest in [your areas of
 
 ## 🌀 Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tailwind-Stocker/contribution-snake/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tailwind-Stocker/contribution-snake/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tailwind-Stocker/contribution-snake/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tailwind-Stocker/contribution-snake/output/github-contribution-grid-snake.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tailwind-Stocker/contribution-snake/output/github-contribution-grid-snake-light.gif">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Tailwind-Stocker/contribution-snake/output/github-contribution-grid-snake-light.gif">
 </picture>
 
 ---
